@@ -1,4 +1,4 @@
 # REX-GIthub-new
-Rookie coder
+Rookie developer
 <br>
 Author-Rex
